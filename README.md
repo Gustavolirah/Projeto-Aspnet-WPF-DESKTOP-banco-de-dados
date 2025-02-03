@@ -1,2 +1,3 @@
-# Projeto-Aspnet-DESKTOP-banco-de-dados ESTA LINKADO ASSIM OPTEI POR USAR MUITAS IMAGENS COM RESOLUÇÕES ALTA DE ATÉ 4K, E O GIT HUB NÃO SUPORTA
+Projeto ASP.NET Desktop Integrado com Banco de Dados
+Este projeto está vinculado ao repositório do GitHub para controle de versão e colaboração. Optei por utilizar imagens em alta resolução (até 4K) para garantir uma experiência visual rica e detalhada. Devido ao limite de armazenamento do GitHub, os arquivos de mídia de maior tamanho foram gerenciados externamente para manter a performance e a organização do repositório. Essa abordagem assegura que o projeto mantenha a qualidade visual sem comprometer a eficiência do versionamento.
 acesse o link e tera acesso total https://drive.google.com/drive/folders/13UWN3qSVjgynGWGkB35L1rafR9pNuVrj?usp=sharing
